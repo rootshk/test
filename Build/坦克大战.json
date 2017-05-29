@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "坦克大战.data.unityweb",
+"asmCodeUrl": "坦克大战.asm.code.unityweb",
+"asmMemoryUrl": "坦克大战.asm.memory.unityweb",
+"asmFrameworkUrl": "坦克大战.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
